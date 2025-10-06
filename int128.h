@@ -27,7 +27,7 @@
 	private:
 		__int128 wartosc=0;
 		std::string konwertuj(); //rzutowanie wartosci na wartosc string ktury wyswietlic;
-	
-		
+			
 };
+
 #endif
